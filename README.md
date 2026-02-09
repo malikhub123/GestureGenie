@@ -4,7 +4,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 A **computer vision and deep learning** project that recognizes **static hand gestures** of the English alphabet (A–Z) from a webcam feed and converts them into **text and speech** in real-time.
 
@@ -328,8 +327,8 @@ This project demonstrates:
 
 For questions, suggestions, or collaboration:
 - 📧 Email: malik2002.aditi@gmail.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/aditi-malik-43880a222/)
-- 🐙 GitHub: [@your-username](https://github.com/malikhub123)
+- 💼 LinkedIn: [linkedin.com/in/aditi-malik-43880a222/](https://linkedin.com/in/aditi-malik-43880a222/)
+- 🐙 GitHub: [github.com/malikhub123](https://github.com/malikhub123)
 
 ---
 
